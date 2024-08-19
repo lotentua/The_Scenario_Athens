@@ -25,6 +25,8 @@ We strongly recommend to download our shapefiles before starting to develope you
 4) In the developed network, there are no cycle lanes with the exemption of Vas. Olgas and Panepistimiou Avenues where pop-up cycle lanes were established in May 2020. Double links have been designed there, as cycle lane are unidirectional and Panepistimiou is one-way for cars.
   
 **Papers that used [The SCENARIO ATHENS](https://lotentua.github.io/The_Scenario_Athens):**
+
 Tzouras, P.G., Mitropoulos, L., Koliou, K., Stavropoulou, E., Karolemeas, C., Antoniou, E., Karaloulis, A., Mitropoulos, K., Vlahogianni, E.I., Kepaptsoglou, K., 2023. Describing Micro-Mobility First/Last-Mile Routing Behavior in Urban Road Networks through a Novel Modeling Approach. Sustainability 15, 3095. https://doi.org/10.3390/su15043095
+
 Tzouras, P.G., Mitropoulos, L., Karolemeas, C., Stravropoulou, E., Vlahogianni, E.I., Kepaptsoglou, K., 2024. Agent-based simulation model of micro-mobility trips in heterogeneous and perceived unsafe road environments. Journal of Cycling and Micromobility Research 2, 100042. https://doi.org/10.1016/j.jcmr.2024.100042
 
